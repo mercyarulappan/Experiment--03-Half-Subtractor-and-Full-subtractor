@@ -1,4 +1,3 @@
-![FS wave](https://github.com/mercyarulappan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149233730/239f8514-2485-4505-8ce0-25b0108a3e59)# Experiment--03-Half-Subtractor-and-Full-subtractor
 
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 
