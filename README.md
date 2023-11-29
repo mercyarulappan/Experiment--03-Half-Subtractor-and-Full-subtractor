@@ -65,6 +65,18 @@ RegisterNumber:  23012506
 ![FS code](https://github.com/mercyarulappan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149233730/02975fce-d747-43f9-b0ec-90739644e13d)
 
 
+# Logic diagram:
+
+### Full Subtractor:
+
+![HS diagram](https://github.com/mercyarulappan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149233730/466b46af-5510-4252-90ea-1dbe228c5376)
+
+
+### Half Subtractor:
+
+![FS diagram](https://github.com/mercyarulappan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149233730/d7d692ac-7219-4e15-a37c-2779284bf059)
+
+
 # Output:
 
 ### HALF SUBTRACTOR:
